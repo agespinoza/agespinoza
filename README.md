@@ -1,91 +1,41 @@
-# Hi there 👋 I'm Alicia Espinoza
+# Hi, I’m Alicia Espinoza 👋
 
-🚀 ** Software Engineer | Data & Cloud Analytics | Mining Technology**
-I turn operational data into intelligent systems that improve real-world decisions.
+**Software Engineer | Data & Cloud Analytics | Mining Technology**  
+She/her
 
----
+I build data products for operational teams. My work spans fleet telemetry, production and safety analytics, and governed Power BI models. I’m also building AI tools that make it easier for teams to find and use the knowledge of experienced engineers.
 
-## 🔭 I’m currently working on
+## Featured project · Satellite Analytics Lab
 
-* **GovRAG** → Building a knowledge intelligence platform that captures expert domain knowledge and makes it usable through AI
-* Data platforms for **mining operations** (telemetry, production, safety & fleet analytics)
-* Interactive **Power BI** solutions connected to governed semantic models
+I built a React and PostgreSQL app to explore 28,053 Earth-orbit payload records from a public CelesTrak catalog snapshot. The lab follows an analysis from checking data quality to visualizing orbital patterns and comparing machine learning models.
 
----
+- **Explore the data.** Plot orbital inclination against apogee, filter by launch decade or catalog owner, and inspect individual payloads by NORAD ID.
+- **Investigate data quality.** Use PostgreSQL to measure missing values, flag inconsistent orbital measurements, and compare launch cohorts.
+- **Compare models.** Run seven k-means fits on the same cohort and inspect how cluster sizes and centers change.
 
-## 🌱 I’m currently learning
+For the case study, I wrote a reproducible SQL query to compare median apogee across two launch cohorts. I documented how the catalog snapshot, the partial 2020s decade, and the decay-date filter affect the interpretation.
 
-* ISO/IEC **38507:2022** → Governance of AI for organizations
-* Designing **AI-ready data architectures**
-* Deep learning strategies for structured + expert knowledge
-* Advanced **Azure data services**
+## What I’m building
 
----
+- **GovRAG** — A knowledge platform that captures expert knowledge and makes it searchable through retrieval-augmented generation.
+- **Mining data platforms** — Pipelines and analytics for fleet telemetry, production, and safety.
+- **Power BI solutions** — Operational scorecards and interactive reports built on governed semantic models.
 
-## 👯 I’m looking to collaborate on
+## What I’m learning
 
-* AI for industrial & mining use cases
-* Knowledge graphs / RAG systems
-* Open data engineering & analytics projects
-* Technology that empowers field operations
+I’m exploring how to apply ISO/IEC 38507:2022 in AI projects, design data pipelines that support AI applications, and put models into production with enterprise MLOps practices. I’m also deepening my experience with Azure data services and studying how deep learning can work with structured data and expert knowledge.
 
----
+## Tools I work with
 
-## 🤔 I’m looking for help with
+| Area | Tools and practices |
+| --- | --- |
+| Software and scripting | Python, JavaScript, React, T-SQL |
+| Data engineering | Azure SQL, PostgreSQL, ETL/ELT, data warehousing |
+| Analytics | Power BI, DAX, MDX, semantic models, operational scorecards |
+| Applied AI | Retrieval-augmented generation, knowledge capture, clustering, AI governance |
 
-* Applying **AI governance frameworks in real projects**
-* Scaling domain knowledge ingestion pipelines
-* MLOps for enterprise environments
+## Let’s connect
 
----
+I’m interested in collaborating on industrial AI, mining analytics, knowledge graphs, and open-data projects. Ask me about fleet telemetry, Power BI semantic models, or map-based analytics for field teams.
 
-## 💬 Ask me about
-
-* Mining analytics & fleet telemetry 🚜
-* Power BI semantic models & DAX
-* Azure SQL, ETL & data warehousing
-* Turning business problems into data products
-* Map-based operational intelligence 
-
----
-
-## 🏗️ Tech Stack
-
-```text
-Languages:     T-SQL • Python • JavaScript • DAX • MDX  
-Data:          Azure SQL • Data Warehousing • ETL/ELT • Semantic Models  
-Analytics:     Power BI • Operational Scorecards • KPI Frameworks  
-Cloud:         Azure Data Services  
-AI Direction:  RAG • Knowledge Capture • AI Governance  
-```
-
----
-
-## 🧠 Professional Focus
-
-**From raw telemetry → governed data → operational intelligence → AI copilots for the industry.**
-
-I specialize in translating **tacit knowledge from real mining operations into data & AI systems** — essentially teaching machines how experienced engineers think.
-
----
-
-## 📫 How to reach me
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/achocoza/](https://www.linkedin.com/in/achocoza/)
-* 🌐 Portfolio: [https://github.com/agespinoza](https://github.com/agespinoza)
-
----
-
-## 😄 Pronouns
-
-She / Her
-
----
-
-## ⚡ Fun fact
-
-My passion is bridging the gap between **field operations, data platforms, and artificial intelligence** to build technology that makes heavy industry smarter, safer, and more autonomous.
-
----
-
-✨ *Always building, always learning, always mining for insights.*
+[Connect with me on LinkedIn](https://www.linkedin.com/in/achocoza/)
