@@ -38,4 +38,7 @@ I’m exploring how to apply ISO/IEC 38507:2022 in AI projects, design data pipe
 
 I’m interested in collaborating on industrial AI, mining analytics, knowledge graphs, and open-data projects. Ask me about fleet telemetry, Power BI semantic models, or map-based analytics for field teams.
 
+
+https://data-model-lab.delicatenoodle2.chatgpt.site
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/achocoza/)
