@@ -5,7 +5,7 @@ She/her | Based in Arizona
 
 ---
 
-I'm a software engineer who builds production systems that turn data pipelines and ML models into reliable, operational software. For the past eight years in the United States, I've focused on data platforms that actually work: fleet telemetry systems tracking mining operations, cloud analytics that drive production decisions, inspection workflows that scale, and AI models that stay accurate in production.
+I'm a software engineer who builds production systems that turn data pipelines and ML models into reliable, operational software. For the past **ten years in the United States**, I've focused on data platforms that actually work: fleet telemetry systems tracking mining operations, cloud analytics that drive production decisions, inspection workflows that scale, and AI models that stay accurate in production.
 
 **What I do:** I bridge the gap between data science and production. I take research-quality code, version it properly, deploy it safely, and monitor it reliably. I believe the hardest part of AI isn't building a model — it's putting it into production and keeping it working. That's where most teams fail. I make sure they don't.
 
