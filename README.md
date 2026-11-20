@@ -1,44 +1,60 @@
-# Hi, I’m Alicia Espinoza 👋
+# Alicia Espinoza 👋
 
-**Software Engineer | Data & Cloud Analytics | Mining Technology**  
-She/her
+**Software Engineer | Data Platforms & Production AI**  
+She/her | Based in Arizona
 
-I build data products for operational teams. My work spans fleet telemetry, production and safety analytics, and governed Power BI models. I’m also building AI tools that make it easier for teams to find and use the knowledge of experienced engineers.
+---
 
-## Featured project · Satellite Analytics Lab
+I'm a software engineer who builds production systems that turn data pipelines and ML models into reliable, operational software. For the past eight years in the United States, I've focused on data platforms that actually work: fleet telemetry systems tracking mining operations, cloud analytics that drive production decisions, inspection workflows that scale, and AI models that stay accurate in production.
 
-I built a React and PostgreSQL app to explore 28,053 Earth-orbit payload records from a public CelesTrak catalog snapshot. The lab follows an analysis from checking data quality to visualizing orbital patterns and comparing machine learning models.
+**What I do:** I bridge the gap between data science and production. I take research-quality code, version it properly, deploy it safely, and monitor it reliably. I believe the hardest part of AI isn't building a model — it's putting it into production and keeping it working. That's where most teams fail. I make sure they don't.
 
-- **Explore the data.** Plot orbital inclination against apogee, filter by launch decade or catalog owner, and inspect individual payloads by NORAD ID.
-- **Investigate data quality.** Use PostgreSQL to measure missing values, flag inconsistent orbital measurements, and compare launch cohorts.
-- **Compare models.** Run seven k-means fits on the same cohort and inspect how cluster sizes and centers change.
+**My foundation:** I began my career in public-sector IT in Mexicali, then designed technical courses at universities across Mexico and Arizona. That experience taught me how to explain complex systems clearly—something I bring to every production deployment.
 
-For the case study, I wrote a reproducible SQL query to compare median apogee across two launch cohorts. I documented how the catalog snapshot, the partial 2020s decade, and the decay-date filter affect the interpretation.
+**In Arizona, I've built:**
+- **Fleet telemetry systems** that give operations teams real-time visibility into equipment health and location across copper mines
+- **Production analytics platforms** in Power BI and Azure SQL that drive decision-making at operational scale
+- **Inspection data warehouses** processing tens of thousands of records, optimized for query performance and data quality
+- **ML pipelines** that version data, train models, deploy predictions, and monitor drift automatically
+- **Cloud analytics infrastructure** on Azure (Synapse, Data Factory) that scales as data volumes grow
+- **Mission operations software** at University of Arizona Space Institute for trajectory analysis and satellite operations
+
+---
 
 ## What I’m building
 
 - **GovRAG** — A knowledge platform that captures expert knowledge and makes it searchable through retrieval-augmented generation.
-- **Mining data platforms** — Pipelines and analytics for fleet telemetry, production, and safety.
+- **Mining data platforms** — Pipelines and analytics for fleet telemetry, production, and safety across Arizona operations.
 - **Power BI solutions** — Operational scorecards and interactive reports built on governed semantic models.
 
 ## What I’m learning
 
 I’m exploring how to apply ISO/IEC 38507:2022 in AI projects, design data pipelines that support AI applications, and put models into production with enterprise MLOps practices. I’m also deepening my experience with Azure data services and studying how deep learning can work with structured data and expert knowledge.
 
-## Tools I work with
+## Tech stack
 
 | Area | Tools and practices |
 | --- | --- |
-| Software and scripting | Python, JavaScript, React, T-SQL |
-| Data engineering | Azure SQL, PostgreSQL, ETL/ELT, data warehousing |
-| Analytics | Power BI, DAX, MDX, semantic models, operational scorecards |
-| Applied AI | Retrieval-augmented generation, knowledge capture, clustering, AI governance |
+| **Languages** | Python, SQL, C#, JavaScript, TypeScript, R, Java |
+| **Data** | PostgreSQL, Azure SQL, Snowflake, pandas, dbt, SQL optimization |
+| **Analytics** | Power BI, DAX, MDX, semantic models, operational dashboards |
+| **ML/AI** | scikit-learn, XGBoost, retrieval-augmented generation, model deployment, MLOps |
+| **Cloud** | Azure (Synapse, Data Factory, Functions), Azure DevOps |
 
-## Let’s connect
+## Featured project · Satellite Analytics Lab
 
-I’m interested in collaborating on industrial AI, mining analytics, knowledge graphs, and open-data projects. Ask me about fleet telemetry, Power BI semantic models, or map-based analytics for field teams.
+I built a React and PostgreSQL app to explore 28,053 Earth-orbit payload records from a public CelesTrak catalog snapshot. The lab follows an analysis from checking data quality to visualizing orbital patterns and comparing machine learning models.
 
+[Explore the Satellite Analytics Lab →](https://data-model-lab.delicatenoodle2.chatgpt.site)
 
-https://data-model-lab.delicatenoodle2.chatgpt.site
+---
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/achocoza/)
+## Let's connect
+
+I'm based in Arizona and focused on building data and AI systems that work in production. I'm interested in collaborating on:
+- **Mining & industrial operations** – ML and analytics for equipment, production, and safety
+- **Data platforms** – Cloud analytics infrastructure that scales
+- **Knowledge systems** – Making expert knowledge findable and reusable
+- **MLOps & AI governance** – Getting models into production reliably
+
+[**Connect with me on LinkedIn**](https://www.linkedin.com/in/achocoza/) · [**Portfolio & Projects**](https://agespinoza.github.io/Portafolio/) · [**GitHub**](https://github.com/agespinoza)
