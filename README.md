@@ -17,7 +17,7 @@ I'm a software engineer who builds production systems that turn data pipelines a
 - **Inspection data warehouses** processing tens of thousands of records, optimized for query performance and data quality
 - **ML pipelines** that version data, train models, deploy predictions, and monitor drift automatically
 - **Cloud analytics infrastructure** on Azure (Synapse, Data Factory) that scales as data volumes grow
-- **Mission operations software** at University of Arizona Space Institute for trajectory analysis and satellite operations
+- **Mission operations software** for trajectory analysis and satellite operations
 
 ---
 
